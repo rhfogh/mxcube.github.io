@@ -28,7 +28,7 @@ Unattended data collection is a plus for MXCuBE – and a major reason for inter
 
 * YAML configuration
 
-The yaml configuration has been fully implemented and tested at BioMAX (with thanks to Elmir Jagudin). Testing is planned at the ESRF during the next shutdown. It is agreed to finalise the plans at the next remote developers’ meeting, and to plan a change-over to yaml configuration for the next half-yearly meeting. There is still a need to settle exactly which functions from the temporary XML/YAML implementation should be maintained and which should be purged.
+The yaml configuration has been fully implemented and tested at MicroMAX (with thanks to Elmir Jagudin). Testing is planned at the ESRF during the next shutdown. It is agreed to finalise the plans at the next remote developers’ meeting, and to plan a change-over to yaml configuration for the next half-yearly meeting. There is still a need to settle exactly which functions from the temporary XML/YAML implementation should be maintained and which should be purged.
 
 * Any Other Business
 

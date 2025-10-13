@@ -6,6 +6,8 @@ fa-icon: users
 ---
 
 # Past meetings
+- [24th. MXCuBE meeting organized by Elettra, 20-22.11.2024](doc/past_meetings/2024_elettra/index.html)
+- [23rd. MXCuBE meeting organized by MAXIV, 28-31.05.2024](doc/past_meetings/2024_max_lab/index.html)
 - [22nd. MXCuBE meeting organized by ALBA, 28-30.11.2023](doc/past_meetings/2023_alba/index.html)
 - [21st. MXCuBE meeting organized by SOEIL, 26-27.05.2023](doc/past_meetings/2023_may_soleil/index.html)
 - [20th. MXCuBE meeting organized by ESRF, 26-27.10.2022](doc/past_meetings/2022_october_esrf/index.html)
@@ -25,6 +27,6 @@ fa-icon: users
 - [6th.  MXCuBE meeting @ HZB (Berlin), 01-02.06.2015](doc/past_meetings/2015_hzb/index.html)
 - [5th.  MXCuBE meeting @ MAX Lab (Lund, Sweeden), 01-02.11.2014](doc/past_meetings/2014_max_lab/index.html)
 - [4th.  MXCuBE meeting @ SOLEIL (Saint-Aubin, France), 13-14.05.2014](doc/past_meetings/2014_soleil/index.html)
-- [3th.  MXCuBE meeting @ ESRF (Grenoble, France), 10-11.04.2013](doc/past_meetings/2013_esrf/index.html)
+- [3rd.  MXCuBE meeting @ ESRF (Grenoble, France), 10-11.04.2013](doc/past_meetings/2013_esrf/index.html)
 - [2nd.  MXCuBE meeting @ SOLEIL (Saint-Aubin, France), 12.01.2012](doc/past_meetings/2012_soleil/index.html)
 - [1st.  MXCuBE meeting @ ESRF (Grenoble, France), 22.09.2010](doc/past_meetings/2010_esrf/index.html)
